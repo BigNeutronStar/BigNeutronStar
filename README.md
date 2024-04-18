@@ -1,13 +1,19 @@
 <img src="./github-header-image.png">
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">18 y.o. student</h3>
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bigneutronstar&show_icons=true&locale=en&layout=compact" alt="bigneutronstar" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api?username=bigneutronstar&show_icons=true&locale=en" alt="bigneutronstar" height="170px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bigneutronstar&" alt="bigneutronstar" width="722px" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
+
 <p align="left"> 
+    
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -26,13 +32,4 @@
 
 </p>
 
-
-
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bigneutronstar&show_icons=true&locale=en&layout=compact" alt="bigneutronstar" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api?username=bigneutronstar&show_icons=true&locale=en" alt="bigneutronstar" height="170px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bigneutronstar&" alt="bigneutronstar" width="722px" />
-
-</p>
 
