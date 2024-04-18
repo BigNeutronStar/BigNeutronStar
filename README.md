@@ -3,12 +3,6 @@
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bigneutronstar&show_icons=true&locale=en&layout=compact" alt="bigneutronstar" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api?username=bigneutronstar&show_icons=true&locale=en" alt="bigneutronstar" height="170px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bigneutronstar&" alt="bigneutronstar" width="722px" />
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 
@@ -30,6 +24,12 @@
 <img src="https://c.tenor.com/KsvZ1G5XL1UAAAAC/tenor.gif" >    
 </p>
 
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bigneutronstar&show_icons=true&locale=en&layout=compact" alt="bigneutronstar" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api?username=bigneutronstar&show_icons=true&locale=en" alt="bigneutronstar" height="170px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bigneutronstar&" alt="bigneutronstar" width="722px" />
 </p>
 
 
